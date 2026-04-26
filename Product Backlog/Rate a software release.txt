@@ -1,0 +1,16 @@
+Card ID   : BL-14
+List      : Product Backlog
+Title     : Rate a software release
+Actor     : Customer
+Color     : Blue/Teal
+
+User Story:
+As a Customer, I want to rate each software
+release using a satisfaction score so that I
+can express my satisfaction with the product.
+
+Acceptance Criteria:
+- Customer selects a score (1-5) per release
+- Rating saved and linked to the correct release
+- Only logged-in customers can submit ratings
+- Customer can view their previously submitted ratings

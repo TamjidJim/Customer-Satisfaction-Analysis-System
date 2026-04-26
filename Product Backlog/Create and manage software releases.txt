@@ -1,0 +1,14 @@
+
+List      : Product Backlog
+Title     : Create and manage software releases
+Actor     : Project Manager
+Color     : Green
+
+User Story:
+As a Project Manager, I want to create and manage
+software release records so that development work
+is tracked per version and the team stays organized.
+
+Acceptance Criteria:
+- Release form includes: version number, description,
+  features

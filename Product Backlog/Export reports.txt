@@ -1,0 +1,16 @@
+Card ID   : BL-05
+List      : Product Backlog
+Title     : Export reports
+Actor     : Project Manager
+Color     : Green
+
+User Story:
+As a Project Manager, I want to generate and export
+satisfaction reports so that I can use the data
+in meetings and official documentation.
+
+Acceptance Criteria:
+- Reports downloadable in document format
+- Export includes all satisfaction scores and feedback
+- Only authorized users can export reports
+- Exported file is complete and correctly formatted

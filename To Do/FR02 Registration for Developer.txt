@@ -1,0 +1,20 @@
+Card ID   : FR-02
+List      : To Do / Sprint Planning
+Title     : Registration for Developer
+Actor     : Developer
+Module    : Profile and Security Management
+Color     : Yellow/Orange
+
+User Story:
+As a Developer, I want to create a role-based
+account with valid information so that I can
+securely access the system and work on assigned
+feedback and release tasks.
+
+Acceptance Criteria:
+- Form includes: full name, email, username,
+  password, confirm password, role = Developer
+- Duplicate username or email shows error message
+- After registration, redirected to Developer dashboard
+- Password stored in encrypted form (Security NFR)
+- System responds within 2-3 seconds (Performance NFR)

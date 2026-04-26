@@ -1,0 +1,13 @@
+
+List      : Product Backlog
+Title     : Compare satisfaction across versions
+Actor     : Project Manager
+Color     : Green
+
+User Story:
+As a Project Manager, I want to compare customer
+satisfaction across different software versions
+so that I can track improvement over time.
+
+Acceptance Criteria:
+- System shows comparison charts across releases

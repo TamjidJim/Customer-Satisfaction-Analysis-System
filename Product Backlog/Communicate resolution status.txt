@@ -1,0 +1,13 @@
+
+List      : Product Backlog
+Title     : Communicate resolution status
+Actor     : QA Analyst
+Color     : Purple
+
+User Story:
+As a QA Analyst, I want to communicate resolution
+status so that developers and managers are always
+informed about the current state of each issue.
+
+Acceptance Criteria:
+- Status changes are visible system-wide in real time

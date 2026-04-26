@@ -1,0 +1,19 @@
+Card ID   : FR-03
+List      : To Do / Sprint Planning
+Title     : Registration for QA Analyst
+Actor     : QA Analyst
+Module    : Profile and Security Management
+Color     : Purple
+
+User Story:
+As a QA Analyst, I want to create a role-based
+account with valid information so that I can
+securely log in and verify issue resolutions.
+
+Acceptance Criteria:
+- Form includes: full name, email, username,
+  password, confirm password, role = QA Analyst
+- Duplicate username or email shows error message
+- After registration, redirected to QA dashboard
+- Password stored in encrypted form (Security NFR)
+- Only QA role can access verification features

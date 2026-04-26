@@ -1,0 +1,16 @@
+Card ID   : BL-08
+List      : Product Backlog
+Title     : Update feedback status
+Actor     : Developer
+Color     : Yellow/Orange
+
+User Story:
+As a Developer, I want to update feedback status
+after fixing issues so that the team knows the
+progress on resolution at all times.
+
+Acceptance Criteria:
+- Status options: Pending, Under Review, Resolved
+- Status updates reflect instantly system-wide
+- PM and QA Analyst can see updated status
+- History of status changes is maintained

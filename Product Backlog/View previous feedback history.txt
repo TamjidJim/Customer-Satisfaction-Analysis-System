@@ -1,0 +1,16 @@
+Card ID   : BL-16
+List      : Product Backlog
+Title     : View previous feedback history
+Actor     : Customer
+Color     : Blue/Teal
+
+User Story:
+As a Customer, I want to view my previous
+feedback so that I can track my submissions
+and see if my issues have been resolved.
+
+Acceptance Criteria:
+- Feedback history is visible in customer dashboard
+- History shows: comment, tag, rating, date, status
+- Customer can only see their own feedback
+- Data loads within 2-3 seconds (Performance NFR)

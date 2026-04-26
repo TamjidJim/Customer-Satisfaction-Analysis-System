@@ -1,0 +1,16 @@
+Card ID   : BL-03
+List      : Product Backlog
+Title     : View satisfaction trend reports
+Actor     : Project Manager
+Color     : Green
+
+User Story:
+As a Project Manager, I want to view graphical
+reports of satisfaction trends across releases
+so that I can evaluate product quality over time.
+
+Acceptance Criteria:
+- Dashboard shows satisfaction scores per release
+- Charts display positive, neutral, negative categories
+- Reports load within 2-3 seconds (Performance NFR)
+- Only authorized PM can access reporting dashboard

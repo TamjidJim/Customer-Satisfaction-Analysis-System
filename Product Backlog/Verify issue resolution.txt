@@ -1,0 +1,16 @@
+Card ID   : BL-11
+List      : Product Backlog
+Title     : Verify issue resolution
+Actor     : QA Analyst
+Color     : Purple
+
+User Story:
+As a QA Analyst, I want to verify developer
+solutions so that quality is confirmed before
+any issue is marked as fully complete.
+
+Acceptance Criteria:
+- QA can mark feedback as Verified after reviewing fix
+- Status changes from Resolved to Verified system-wide
+- PM and Developer are notified when item is Verified
+- QA cannot mark as Verified without reviewing first

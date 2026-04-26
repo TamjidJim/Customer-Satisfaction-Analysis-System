@@ -1,0 +1,16 @@
+Card ID   : BL-15
+List      : Product Backlog
+Title     : Submit comments and suggestions
+Actor     : Customer
+Color     : Blue/Teal
+
+User Story:
+As a Customer, I want to submit comments and
+suggestions about system features so that the
+development team can improve the product.
+
+Acceptance Criteria:
+- Feedback form has text area and tag selector
+- Tags available: Usability Issue, Performance Problem, Bug
+- Comment stored with timestamp, tag, and linked release
+- Only authorized customers can submit feedback

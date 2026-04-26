@@ -1,0 +1,19 @@
+Card ID   : FR-06
+List      : To Do / Sprint Planning
+Title     : Create Software Release
+Actor     : Project Manager / Developer
+Module    : Iteration and Release Management
+Color     : Green
+
+User Story:
+As a Project Manager, I want to create a new
+software release record so that the development
+team can track features and fixes per version.
+
+Acceptance Criteria:
+- Release form includes: version number, description,
+  features/improvements/bug fixes, release date
+- Only PM and Developer can create new releases
+- Created release is immediately visible in release list
+- Releases are searchable by version number or keyword
+- PM can update or remove outdated release records

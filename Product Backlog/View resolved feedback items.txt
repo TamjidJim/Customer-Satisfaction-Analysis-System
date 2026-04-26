@@ -1,0 +1,16 @@
+Card ID   : BL-10
+List      : Product Backlog
+Title     : View resolved feedback items
+Actor     : QA Analyst
+Color     : Purple
+
+User Story:
+As a QA Analyst, I want to view resolved feedback
+items so that I can verify whether developer
+fixes are correct and complete.
+
+Acceptance Criteria:
+- Resolved feedback list is accessible to QA Analyst
+- List shows feedback details, developer notes, timestamps
+- QA can filter by release version or feedback category
+- Only QA Analyst role can access this view

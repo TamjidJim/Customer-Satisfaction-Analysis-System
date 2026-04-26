@@ -1,0 +1,28 @@
+Card ID   : FR-01
+List      : In Progress
+Title     : Registration for Project Manager (Admin)
+Actor     : Project Manager
+Module    : Profile and Security Management
+Status    : ACTIVELY BEING DEVELOPED
+Assigned  : Tamjid Jim
+Color     : Green
+
+User Story:
+As a Project Manager (Admin), I want to create
+a role-based account with valid information so
+that I can securely access the system and manage
+all operations including releases, feedback, and reports.
+
+Acceptance Criteria:
+- Form includes: full name, email, username,
+  password, confirm password, role = Project Manager
+- Duplicate username or email shows error message
+- After registration, redirected to Admin dashboard
+- Password stored in encrypted form (Security NFR)
+- Role-based access control enforced after registration
+- System responds within 2-3 seconds (Performance NFR)
+
+Development Note:
+This card is currently being developed by Jim.
+Implementing role-based registration form with
+encrypted password storage and Admin dashboard redirect.

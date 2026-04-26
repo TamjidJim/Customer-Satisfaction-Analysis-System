@@ -1,0 +1,20 @@
+Card ID   : FR-04
+List      : To Do / Sprint Planning
+Title     : Login for Project Manager
+Actor     : Project Manager
+Module    : Profile and Security Management
+Color     : Green
+
+User Story:
+As a Project Manager, I want to securely log in
+using my username and password so that I can
+access the Admin dashboard and manage all system
+operations.
+
+Acceptance Criteria:
+- Login form accepts username and password
+- Wrong credentials show a clear error message
+- Successful login redirects to PM/Admin dashboard
+- Logout clears session and returns to login page
+- Passwords are encrypted in the database (Security NFR)
+- Role-based access control enforced after login

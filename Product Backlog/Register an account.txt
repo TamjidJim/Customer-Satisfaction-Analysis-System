@@ -1,0 +1,16 @@
+Card ID   : BL-13
+List      : Product Backlog
+Title     : Register an account
+Actor     : Customer
+Color     : Blue/Teal
+
+User Story:
+As a Customer, I want to register an account
+so that I can submit feedback and ratings
+for software releases.
+
+Acceptance Criteria:
+- Account created with: name, email, username, password
+- Role automatically set to Customer
+- Duplicate email or username shows error message
+- Redirected to Customer dashboard after registration

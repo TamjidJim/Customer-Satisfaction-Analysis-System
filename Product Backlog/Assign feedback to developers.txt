@@ -1,0 +1,12 @@
+List      : Product Backlog
+Title     : Assign feedback to developers
+Actor     : Project Manager
+Color     : Green
+
+User Story:
+As a Project Manager, I want to assign feedback
+items to developers for resolution so that work
+is distributed properly and issues are fixed on time.
+
+Acceptance Criteria:
+- Feedback is assigned with priority and deadline
