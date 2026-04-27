@@ -12,3 +12,4 @@ is tracked per version and the team stays organized.
 Acceptance Criteria:
 - Release form includes: version number, description,
   features
+Assigned to: Jim | Sprint: 1

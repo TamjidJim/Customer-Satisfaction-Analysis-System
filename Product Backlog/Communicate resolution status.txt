@@ -11,3 +11,5 @@ informed about the current state of each issue.
 
 Acceptance Criteria:
 - Status changes are visible system-wide in real time
+Assigned to: Anis Mahmud Ratul
+Sprint: 1

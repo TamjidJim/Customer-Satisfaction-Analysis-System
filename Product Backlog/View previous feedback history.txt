@@ -14,3 +14,5 @@ Acceptance Criteria:
 - History shows: comment, tag, rating, date, status
 - Customer can only see their own feedback
 - Data loads within 2-3 seconds (Performance NFR)
+Assigned to: Anis Mahmud Ratul
+Sprint: 1

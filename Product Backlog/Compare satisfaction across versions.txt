@@ -11,3 +11,4 @@ so that I can track improvement over time.
 
 Acceptance Criteria:
 - System shows comparison charts across releases
+Assigned to: Jim | Sprint: 1

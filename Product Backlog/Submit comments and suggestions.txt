@@ -14,3 +14,5 @@ Acceptance Criteria:
 - Tags available: Usability Issue, Performance Problem, Bug
 - Comment stored with timestamp, tag, and linked release
 - Only authorized customers can submit feedback
+Assigned to: Anis Mahmud Ratul
+Sprint: 1

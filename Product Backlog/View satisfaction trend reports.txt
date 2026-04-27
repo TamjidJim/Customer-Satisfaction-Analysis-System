@@ -14,3 +14,4 @@ Acceptance Criteria:
 - Charts display positive, neutral, negative categories
 - Reports load within 2-3 seconds (Performance NFR)
 - Only authorized PM can access reporting dashboard
+Assigned to: Jim | Sprint: 1

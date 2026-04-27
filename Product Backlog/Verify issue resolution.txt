@@ -14,3 +14,5 @@ Acceptance Criteria:
 - Status changes from Resolved to Verified system-wide
 - PM and Developer are notified when item is Verified
 - QA cannot mark as Verified without reviewing first
+Assigned to: Anis Mahmud Ratul
+Sprint: 1
