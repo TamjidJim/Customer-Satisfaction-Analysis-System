@@ -17,3 +17,6 @@ Acceptance Criteria:
 - Created release is immediately visible in release list
 - Releases are searchable by version number or keyword
 - PM can update or remove outdated release records
+Assigned to: Anis Mahmud Ratul
+Sprint: 1
+Status: To Do
