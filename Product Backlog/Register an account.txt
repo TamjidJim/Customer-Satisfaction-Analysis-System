@@ -14,3 +14,5 @@ Acceptance Criteria:
 - Role automatically set to Customer
 - Duplicate email or username shows error message
 - Redirected to Customer dashboard after registration
+Assigned to: Anis Mahmud Ratul
+Sprint: 1
