@@ -9,4 +9,4 @@ As a Developer, I want to log in to the system
 so that I can access my assigned feedback.
 
 Acceptance Criteria:
--- Successful login shows personalised dashboard.
+--- Successful login shows personalised dashboard.

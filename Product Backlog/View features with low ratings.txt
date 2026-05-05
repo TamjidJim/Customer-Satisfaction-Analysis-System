@@ -9,8 +9,8 @@ As a Developer, I want to view features with
 low ratings so that I can identify and improve
 the weakest parts of the system.
 
-Acceptance Criteria:
--- Ratings are visible per feature on developer dashboard
--- Features sorted by rating (lowest first) for easy access
--- Developer can click a feature to see related feedback
--- Data loads within 2-3 seconds (Performance NFR)
+Acceptance Criteria::
+- Ratings are visible per feature on developer dashboard
+- Features sorted by rating (lowest first) for easy access
+-  Developer can click a feature to see related feedback
+-  Data loads within 2-3 seconds (Performance NFR)
