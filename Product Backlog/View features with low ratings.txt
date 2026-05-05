@@ -2,7 +2,7 @@ Card ID   : BL-09
 List      : Product Backlog
 Title     : View features with low ratings
 Actor     : Developer
-Color     : Yellow/Orange
+Colour     : Yellow/Orange
 
 User Story:
 As a Developer, I want to view features with
@@ -10,7 +10,7 @@ low ratings so that I can identify and improve
 the weakest parts of the system.
 
 Acceptance Criteria:
-- Ratings are visible per feature on developer dashboard
-- Features sorted by rating (lowest first) for easy access
-- Developer can click a feature to see related feedback
-- Data loads within 2-3 seconds (Performance NFR)
+-- Ratings are visible per feature on developer dashboard
+-- Features sorted by rating (lowest first) for easy access
+-- Developer can click a feature to see related feedback
+-- Data loads within 2-3 seconds (Performance NFR)

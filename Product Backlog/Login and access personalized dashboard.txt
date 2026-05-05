@@ -2,11 +2,11 @@
 List      : Product Backlog
 Title     : Login to system
 Actor     : Developer
-Color     : Yellow/Orange
+Colour     : Yellow/Orange
 
 User Story:
 As a Developer, I want to log in to the system
 so that I can access my assigned feedback.
 
 Acceptance Criteria:
-- Successful login shows personalized dashboard.
+-- Successful login shows personalised dashboard.

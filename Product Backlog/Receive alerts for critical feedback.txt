@@ -2,7 +2,7 @@ Card ID   : BL-07
 List      : Product Backlog
 Title     : Receive alerts for critical feedback
 Actor     : Developer
-Color     : Yellow/Orange
+Colour     : Yellow/Orange
 
 User Story:
 As a Developer, I want to receive alerts for
@@ -10,7 +10,7 @@ critical feedback so that I can prioritize and
 resolve urgent issues quickly.
 
 Acceptance Criteria:
-- Alerts appear for low ratings and critical tags
-- Developer is notified immediately upon assignment
-- Alert includes feedback details and priority level
-- Alerts visible in developer dashboard
+-- Alerts appear for low ratings and critical tags
+-- Developer is notified immediately upon assignment
+-- Alert includes feedback details and priority level
+-- Alerts visible in developer dashboard
