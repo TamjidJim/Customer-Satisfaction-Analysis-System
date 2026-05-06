@@ -8,7 +8,7 @@ Assigned  : Tanvir Mahatab
 Color     : Green
 
 User Story:
-As a Project Manager (Admin), I want to create
+As a Project Manager (admin), I want to create
 a role-based account with valid information so
 that I can securely access the system and manage
 all operations including releases, feedback, and reports.
