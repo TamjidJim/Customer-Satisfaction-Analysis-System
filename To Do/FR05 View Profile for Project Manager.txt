@@ -10,8 +10,8 @@ As a Project Manager, I want to view and update
 my profile information and change my password
 so that my account details remain accurate and secure.
 
-Acceptance Criteria:
-- Profile page shows: name, email, username, role
+Acceptance criteria:
+- Profile page shows: Name, Email, Username, Role
 - PM can edit and save profile changes
 - PM can change password from profile settings
 - Success message shown after any update

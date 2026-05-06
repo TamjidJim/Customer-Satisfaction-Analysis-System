@@ -8,11 +8,11 @@ Color     : Green
 User Story:
 As a Project Manager, I want to securely log in
 using my username and password so that I can
-access the Admin dashboard and manage all system
+access the admin dashboard and manage all system
 operations.
 
-Acceptance Criteria:
-- Login form accepts username and password
+Acceptance criteria:
+- Login form accepts Username and Password
 - Wrong credentials show a clear error message
 - Successful login redirects to PM/Admin dashboard
 - Logout clears session and returns to login page

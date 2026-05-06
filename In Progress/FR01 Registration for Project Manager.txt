@@ -4,7 +4,7 @@ Title     : Registration for Project Manager (Admin)
 Actor     : Project Manager
 Module    : Profile and Security Management
 Status    : ACTIVELY BEING DEVELOPED
-Assigned  : Tamjid Jim
+Assigned  : Tanvir Mahatab
 Color     : Green
 
 User Story:
@@ -13,8 +13,8 @@ a role-based account with valid information so
 that I can securely access the system and manage
 all operations including releases, feedback, and reports.
 
-Acceptance Criteria:
-- Form includes: full name, email, username,
+Acceptance criteria:
+- Form Includes: full name, email, username,
   password, confirm password, role = Project Manager
 - Duplicate username or email shows error message
 - After registration, redirected to Admin dashboard
